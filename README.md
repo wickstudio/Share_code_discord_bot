@@ -1,2 +1,3 @@
-# Share_code_discord_bot
-Discord Bot for share codes with copy link button
+Bot By 约 - Wick | Website : https://wickdev.xyz/
+
+#Discord Share Bot
